@@ -14,13 +14,14 @@ The game will automatically detect your resolution, print it, and use half for t
 
 ### Installing
 
-* install python components using pip install pygame pyautogui screeninfo
+* install python components
+* ```pip install pygame pyautogui screeninfo ```
 * download spaceinvaders.py
 
 ### Executing program
 
 * How to run the program
-* python spaceinvaders.py
+* ```python spaceinvaders.py```
 
 ## Notes
 
