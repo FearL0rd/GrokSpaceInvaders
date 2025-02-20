@@ -5,6 +5,8 @@
 This is a GROK 3 code generation test.
 The game will automatically detect your resolution, print it, and use half for the window size, scaling all elements.
 
+![Project Logo](GrokSpaceInvaders.png)
+
 ## Getting Started
 
 ### Dependencies
